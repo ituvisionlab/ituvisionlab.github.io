@@ -94,7 +94,6 @@
                     {% endfor %}
                   </div>
                 </li>
-              <!--
               {% else %}
                 <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
                   {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
@@ -106,7 +105,6 @@
                   </a>
                 </li>
               {% endif %}
-              -->
             {% endif %}
           {% endfor %}
           {% if site.enable_darkmode %}
