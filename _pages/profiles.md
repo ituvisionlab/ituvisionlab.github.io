@@ -24,10 +24,10 @@ nav: true
 {% endif %}
 
 
-{% if site.data.team.researchers %}
-    <br><h2 id="research-fellows">Research Fellows</h2>
+{% if site.data.team.team %}
+    <br><h2 id="grad-students">Graduate Students</h2>
     <div class="row">
-        {% assign sorted= site.data.team.researchers | sort: "name" %}
+        {% assign sorted= site.data.team.team | sort: "name" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
@@ -37,10 +37,10 @@ nav: true
 {% endif %}
 
 
-{% if site.data.team.mscs %}
-    <br><h2 id="msc-students">MSc Students</h2>
+{% if site.data.team.notablealumni %}
+    <br><h2 id="notable-alumni">Notable Alumni</h2>
     <div class="row">
-        {% assign sorted= site.data.team.mscs | sort: "name" %}
+        {% assign sorted= site.data.team.notablealumni | sort: "name" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
@@ -49,10 +49,10 @@ nav: true
     </div>
 {% endif %}
 
-{% if site.data.team.bscs %}
+{% if site.data.team.bachelor %}
     <br><h2 id="bsc-students">BSc Students</h2>
     <div class="row">
-        {% assign sorted= site.data.team.bscs | sort: "name" %}
+        {% assign sorted= site.data.team.bachelor | sort: "name" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
