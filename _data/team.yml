@@ -1,5 +1,6 @@
 leaders:
   - name: Gozde Unal
+    order: 1
     about: Professor at Artificial Intelligence and Data Engineering Department in Istanbul Technical University.
     mail: gozde.unal@itu.edu.tr
     orcid: 
@@ -10,6 +11,7 @@ leaders:
     image: assets/img/team/gozde_unal.jpeg
 
   - name: Yusuf H. Sahin
+    order: 2
     about: Assistant Professor at Computer Engineering Department in Istanbul Technical University.
     mail: sahinyu@itu.edu.tr
     orcid: 
@@ -22,6 +24,7 @@ leaders:
 
 team:
   - name: Gulcin Baykal Can
+    order: 1
     about: PhD Candidate
     mail: baykalg@itu.edu.tr
     orcid: 
@@ -32,6 +35,7 @@ team:
     image: assets/img/team/gulcin_baykal_can.jpeg
 
   - name: Altay Unal
+    order: 2
     about: MSc Student
     mail: unal21@itu.edu.tr
     linkedin: 
@@ -41,6 +45,7 @@ team:
     image: 
     
   - name: Batuhan Cengiz
+    order: 3
     about: MSc Student
     mail: cengiz16@itu.edu.tr
     orcid: 
@@ -50,6 +55,7 @@ team:
     image: assets/img/team/batuhan-cengiz.jpeg
 
   - name: Halil Faruk Karagoz
+    order: 4
     about: MSc Student
     linkedin: 
     orcid: 
@@ -62,6 +68,7 @@ team:
 notablealumni:
 
   - name: Firat Oncel
+    order: 1
     about: MSc Graduate 2022.
     research_areas: 
     mail: 
@@ -69,6 +76,7 @@ notablealumni:
     image: assets/img/team/firat-oncel.jpg
 
   - name: Abdullah Akgul
+    order: 2
     about: MSc Graduate 2022.
     research_areas: 
     mail: 
@@ -76,6 +84,7 @@ notablealumni:
     image: assets/img/team/abdullah_akgul.jpg
 
   - name: Busra Asan
+    order: 3
     about: BSc Graduate 2023.
     research_areas: 
     mail: 
@@ -83,6 +92,7 @@ notablealumni:
     image: 
 
   - name: Elvin Abdinli
+    order: 4
     about: BSc Graduate 2023.
     research_areas: 
     mail: 
@@ -90,6 +100,7 @@ notablealumni:
     image: 
   
   - name: Ismail Cetin
+    order: 4
     about: BSc Graduate 2023.
     research_areas: 
     mail: 
@@ -97,6 +108,7 @@ notablealumni:
     image: 
 
   - name: Kadir Burak Buldu
+    order: 5
     about: BSc Graduate 2023.
     research_areas: 
     mail: 
@@ -104,6 +116,7 @@ notablealumni:
     image: 
   
   - name: Atahan Ozer
+    order: 6
     about: BSc Graduate 2022.
     research_areas: 
     mail: 
@@ -111,6 +124,7 @@ notablealumni:
     image: 
 
   - name: Batuhan Faik Demirbay
+    order: 7
     about: BSc Graduate 2021.
     research_areas: 
     mail: 
@@ -118,6 +132,7 @@ notablealumni:
     image: 
 
   - name: Ugur Ali Kaplan
+    order: 8
     about: BSc Graduate 2021.
     research_areas: 
     mail: 
@@ -125,6 +140,7 @@ notablealumni:
     image: 
 
   - name: Vahit Bugra Yesilkaynak
+    order: 9
     about: BSc Graduate 2020.
     research_areas: 
     mail: 
@@ -134,22 +150,26 @@ notablealumni:
 bachelor:
 
   - name: Emircan Gundogdu
+    order: 3
     mail: gundogdu19@itu.edu.tr
     research_areas: 
     image: 
 
   - name: Ali Kerem Bozkurt
+    order: 1
     mail: bozkurt19@itu.edu.tr
     research_areas: 
     image: 
     linkedin:
 
   - name: Mert Gulsen
+    order: 4
     mail: gulsen20@itu.edu.tr
     research_areas: 
     image:
     
   - name: Mustafa Arda Aydin
+    order: 5
     mail: aydinmu19@itu.edu.tr
     research_areas: 
     webpage: 
@@ -157,6 +177,7 @@ bachelor:
     image: 
 
   - name: Efe Cirpan
+    order: 2
     mail: cirpan19@itu.edu.tr
     research_areas: 
     webpage: 
