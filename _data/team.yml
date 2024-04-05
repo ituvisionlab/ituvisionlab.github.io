@@ -1,36 +1,38 @@
 leaders:
   - name: Gozde Unal
-    about: 
+    about: Professor at Artificial Intelligence and Data Engineering Department in Istanbul Technical University.
     mail: gozde.unal@itu.edu.tr
     orcid: 
     webpage: https://gozde-unal.github.io/
     scholar: https://scholar.google.com/citations?user=soanB6MAAAAJ
     twitter: 
     linkedin: 
-    image: 
+    image: assets/img/team/gozde_unal.jpeg
 
   - name: Yusuf H. Sahin
-    about: 
+    about: Assistant Professor at Computer Engineering Department in Istanbul Technical University.
     mail: sahinyu@itu.edu.tr
     orcid: 
     webpage: 
     scholar: https://scholar.google.com.tr/citations?user=62rdgoYAAAAJ
     twitter: 
     linkedin: 
-    image: 
+    image: assets/img/team/yusuf_h_sahin.jpeg
 
 
 team:
   - name: Gulcin Baykal Can
+    about: PhD Candidate
     mail: baykalg@itu.edu.tr
     orcid: 
     webpage: 
     scholar: https://scholar.google.com/citations?user=tcmSfdwAAAAJ
     linkedin: 
     research_areas: 
-    image: 
+    image: assets/img/team/gulcin_baykal_can.jpeg
 
   - name: Altay Unal
+    about: MSc Student
     mail: unal21@itu.edu.tr
     linkedin: 
     scholar: https://scholar.google.com/citations?user=tcmSfdwAAAAJ
@@ -39,34 +41,94 @@ team:
     image: 
     
   - name: Batuhan Cengiz
+    about: MSc Student
     mail: cengiz16@itu.edu.tr
     orcid: 
     linkedin:
     scholar: https://scholar.google.com.tr/citations?user=EKe8A5gAAAAJ
     research_areas: 
-    image: 
+    image: assets/img/team/batuhan-cengiz.jpeg
 
   - name: Halil Faruk Karagoz
+    about: MSc Student
     linkedin: 
     orcid: 
     webpage: 
     mail: karagoz18@itu.edu.tr
     scholar: https://scholar.google.com/citations?user=I30oPoMAAAAJ
     research_areas: 
-    image: 
+    image: assets/img/team/halil_faruk_karagoz.jpeg
     
 notable alumni:
 
   - name: Firat Oncel
+    about: MSc Graduate 2022.
     research_areas: 
     mail: 
     linkedin:
-    image:
+    image: assets/img/team/firat-oncel.jpg
 
   - name: Abdullah Akgul
+    about: MSc Graduate 2022.
     research_areas: 
     mail: 
     webpage: apotekila.github.io
+    image: assets/img/team/abdullah_akgul.jpg
+
+  - name: Busra Asan
+    about: BSc Graduate 2023.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: 
+
+  - name: Elvin Abdinli
+    about: BSc Graduate 2023.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: 
+  
+  - name: Ismail Cetin
+    about: BSc Graduate 2023.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: 
+
+  - name: Kadir Burak Buldu
+    about: BSc Graduate 2023.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: 
+  
+  - name: Atahan Ozer
+    about: BSc Graduate 2022.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: 
+
+  - name: Batuhan Faik Demirbay
+    about: BSc Graduate 2021.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: 
+
+  - name: Ugur Ali Kaplan
+    about: BSc Graduate 2021.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: 
+
+  - name: Vahit Bugra Yesilkaynak
+    about: BSc Graduate 2020.
+    research_areas: 
+    mail: 
+    webpage: 
     image: 
 
 bachelor:
@@ -83,7 +145,7 @@ bachelor:
     linkedin:
 
   - name: Mert Gulsen
-    mail: stefancernat88@yahoo.com
+    mail: gulsen20@itu.edu.tr
     research_areas: 
     image:
     
@@ -103,4 +165,5 @@ bachelor:
 
 
 alumnis:
-  - name: XYZ
+  - name: Talha Sezer Cakir
+  - name: Zeki Gencer
