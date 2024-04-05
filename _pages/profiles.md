@@ -15,7 +15,7 @@ nav: true
     <br><h2 id="principal-investigator">Principal Investigator</h2>
     <div class="row">
         <div class="projects column">
-            {% assign sorted= site.data.team.leaders | sort: "name" %}
+            {% assign sorted= site.data.team.leaders | sort: "order" %}
             {% for member in sorted %}
                 {% include team/leader.html member=member %}
             {% endfor %}
@@ -27,7 +27,7 @@ nav: true
 {% if site.data.team.team %}
     <br><h2 id="grad-students">Graduate Students</h2>
     <div class="row">
-        {% assign sorted= site.data.team.team | sort: "name" %}
+        {% assign sorted= site.data.team.team | sort: "order" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
@@ -40,7 +40,7 @@ nav: true
 {% if site.data.team.notablealumni %}
     <br><h2 id="notable-alumni">Notable Alumni</h2>
     <div class="row">
-        {% assign sorted= site.data.team.notablealumni | sort: "name" %}
+        {% assign sorted= site.data.team.notablealumni | sort: "order" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
@@ -52,7 +52,7 @@ nav: true
 {% if site.data.team.bachelor %}
     <br><h2 id="bsc-students">BSc Students</h2>
     <div class="row">
-        {% assign sorted= site.data.team.bachelor | sort: "name" %}
+        {% assign sorted= site.data.team.bachelor | sort: "order" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
