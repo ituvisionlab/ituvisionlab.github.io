@@ -1,12 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aportekila
+  - sahinyu
+  - firatoncel
+  - AUnal7
+  - batuceng
+  - ali-kerem
+  - busraasan
+  - gulcinbaykal
+  - halilfarukkaragoz
+  - gozde-unal
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ituvisionlab/EdVAE
+  - ituvisionlab/EvidentialTuringProcess
+  - ituvisionlab/MetaCLGraph
+  - ituvisionlab/ODFNet
+  - ituvisionlab/ugqe
