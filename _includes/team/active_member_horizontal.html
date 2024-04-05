@@ -1,0 +1,56 @@
+<p> </p>
+<div class="card hoverable">
+    <div class="row no-gutters">
+        <div class="col-sm-4 col-md-3">
+            {% if include.member.image %}
+               <img src="{{ include.member.image | relative_url}}" class="card-img img-fluid" alt="{{ include.member.name }}" style="width:170px; height:200px">
+            {% else %}
+                <img src="{{ '/assets/img/team/default.png' | relative_url }}" class="card-img img-fluid" alt="{{ include.member.name }}" style="width:170px; height:200px">
+            {% endif %}
+        </div>
+        <div class="team col-sm-8 col-md-9">
+            <div class="card-body">
+                {% if include.member.webpage %}
+                    <a href="{{ include.member.webpage }}" target="_blank" rel="noopener noreferrer">
+                        <h5 class="card-title">{{ include.member.name }}</h5>       
+                        <p class="card-text">
+                            {{ include.member.research_areas }}
+                        </p>
+                    </a>
+                {% else %}
+                    <h5 class="card-title">{{ include.member.name }}</h5>       
+                    <p class="card-text">
+                        {{ include.member.research_areas }}
+                    </p>
+                {% endif %}
+                <br>
+                <div class="card-footer">
+                    <small>
+                        {% if include.member.mail %}
+                            <a href="mailto:{{ include.member.mail }}" class="card-link"><i class="fas fa-envelope"></i></a> 
+                        {% endif %}
+                        <!--{% if include.member.webpage %}
+                            <a href="{{ include.member.webpage }}" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>   
+                        {% endif %}-->
+                        {% if include.member.scholar %}
+                            <a href="{{ include.member.scholar }}" class="card-link" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        {% endif %}
+                        <!--{% if include.member.orcid %}
+                            <a href="https://orcid.org/{{ include.member.orcid }}" class="card-link" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid"></i></a>
+                        {% endif %}-->
+                        {% if include.member.linkedin %}
+                            <a href="{{ include.member.linkedin }}" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                        {% endif %}
+                        <!--{% if include.member.twitter %}
+                            <a href="https://twitter.com/{{ include.member.twitter }}" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                        {% endif %}
+                        {% if include.member.instagram %}
+                            <a href="https://instagram.com/{{ include.member.instagram }}" class="card-link" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                        {% endif %}
+                        -->
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
