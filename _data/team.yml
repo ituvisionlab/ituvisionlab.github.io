@@ -89,7 +89,7 @@ notablealumni:
     research_areas: 
     mail: 
     webpage: 
-    image: 
+    image: assets/img/team/busra-asan.jpg
 
   - name: Elvin Abdinli
     order: 4
@@ -97,7 +97,7 @@ notablealumni:
     research_areas: 
     mail: 
     webpage: 
-    image: 
+    image: assets/img/team/elvin-abdinli.jpg
   
   - name: Ismail Cetin
     order: 4
@@ -113,7 +113,7 @@ notablealumni:
     research_areas: 
     mail: 
     webpage: 
-    image: 
+    image: assets/img/team/kadir-burak-buldu.jpeg
   
   - name: Atahan Ozer
     order: 6
