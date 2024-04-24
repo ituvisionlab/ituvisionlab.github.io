@@ -153,7 +153,7 @@ bachelor:
     order: 3
     mail: gundogdu19@itu.edu.tr
     research_areas: 
-    image: 
+    image: assets/img/team/emircan-gundogdu.jpg
 
   - name: Ali Kerem Bozkurt
     order: 1
