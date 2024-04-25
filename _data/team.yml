@@ -166,7 +166,7 @@ bachelor:
     order: 4
     mail: gulsen20@itu.edu.tr
     research_areas: 
-    image:
+    image: assets/img/team/mert-gulsen.jpg
     
   - name: Mustafa Arda Aydin
     order: 5
