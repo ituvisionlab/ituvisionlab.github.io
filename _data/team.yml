@@ -19,7 +19,7 @@ leaders:
     scholar: https://scholar.google.com.tr/citations?user=62rdgoYAAAAJ
     twitter: 
     linkedin: 
-    image: assets/img/team/yusuf_h_sahin.jpeg
+    image: assets/img/team/yusuf_h_sahin.png
 
 
 team:
@@ -42,7 +42,7 @@ team:
     scholar: https://scholar.google.com/citations?user=tcmSfdwAAAAJ
     webpage: 
     research_areas: 
-    image: 
+    image: assets/img/team/altay-unal.jeg
     
   - name: Batuhan Cengiz
     order: 3
