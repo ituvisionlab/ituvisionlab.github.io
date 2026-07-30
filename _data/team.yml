@@ -10,18 +10,6 @@ leaders:
     linkedin: 
     image: assets/img/team/gozde_unal.jpeg
 
-  - name: Yusuf H. Sahin
-    order: 2
-    about: Assistant Professor at Computer Engineering Department in Istanbul Technical University.
-    mail: sahinyu@itu.edu.tr
-    orcid: 
-    webpage: 
-    scholar: https://scholar.google.com.tr/citations?user=62rdgoYAAAAJ
-    twitter: 
-    linkedin: 
-    image: assets/img/team/yusuf_h_sahin.png
-
-
 team:
   - name: Gulcin Baykal Can
     order: 1
