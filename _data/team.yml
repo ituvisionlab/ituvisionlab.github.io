@@ -55,6 +55,13 @@ team:
     
 notablealumni:
 
+  - name: Yusuf H. Sahin
+    order: 0
+    about: Assistant Professor at Computer Engineering Department in Istanbul Technical University.
+    mail: sahinyu@itu.edu.tr
+    scholar: https://scholar.google.com.tr/citations?user=62rdgoYAAAAJ
+    image: assets/img/team/yusuf_h_sahin.png
+
   - name: Firat Oncel
     order: 1
     about: MSc Graduate 2022.
