@@ -24,10 +24,10 @@ nav_order: 2
 {% endif %}
 
 
-{% if site.data.team.team %}
-    <br><h2 id="grad-students">Graduate Students</h2>
+{% if site.data.team.graduate_researchers %}
+    <br><h2 id="graduate-researchers">Graduate Researchers</h2>
     <div class="row">
-        {% assign sorted= site.data.team.team | sort: "order" %}
+        {% assign sorted = site.data.team.graduate_researchers | sort: "order" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
@@ -37,10 +37,10 @@ nav_order: 2
 {% endif %}
 
 
-{% if site.data.team.notablealumni %}
-    <br><h2 id="notable-alumni">Notable Alumni</h2>
+{% if site.data.team.collaborating_researchers %}
+    <br><h2 id="collaborating-researchers">Collaborating Researchers</h2>
     <div class="row">
-        {% assign sorted= site.data.team.notablealumni | sort: "order" %}
+        {% assign sorted = site.data.team.collaborating_researchers | sort: "order" %}
         {% for member in sorted %}
             <div class="col-sm-3 d-flex align-items-stretch">
                 {% include team/active_member.html member=member %}
@@ -48,9 +48,10 @@ nav_order: 2
         {% endfor %}
     </div>
 {% endif %}
+
 
 {% if site.data.team.bachelor %}
-    <br><h2 id="bsc-students">BSc Students</h2>
+    <br><h2 id="undergraduate-research-students">Undergraduate Research Students</h2>
     <div class="row">
         {% assign sorted= site.data.team.bachelor | sort: "order" %}
         {% for member in sorted %}
@@ -61,12 +62,15 @@ nav_order: 2
     </div>
 {% endif %}
 
-
-{% if site.data.team.alumnis %}
-    <br><h2 id="alumni">Alumni</h2>
-    <div class="projects column">
-        {% assign sorted= site.data.team.alumnis %}
-        {% include team/alumni.html alumnis=sorted %}
+{% if site.data.team.notablealumni %}
+    <br><h2 id="notable-alumni">Notable Alumni</h2>
+    <div class="row">
+        {% assign sorted= site.data.team.notablealumni | sort: "order" %}
+        {% for member in sorted %}
+            <div class="col-sm-3 d-flex align-items-stretch">
+                {% include team/active_member.html member=member %}
+            </div>
+        {% endfor %}
     </div>
 {% endif %}
 

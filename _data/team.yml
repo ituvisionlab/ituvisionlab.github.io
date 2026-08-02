@@ -10,7 +10,15 @@ leaders:
     linkedin: 
     image: assets/img/team/gozde_unal.jpeg
 
-team:
+notablealumni:
+
+  - name: Yusuf H. Sahin
+    order: 0
+    about: Assistant Professor at Computer Engineering Department in Istanbul Technical University.
+    mail: sahinyu@itu.edu.tr
+    scholar: https://scholar.google.com.tr/citations?user=62rdgoYAAAAJ
+    image: assets/img/team/yusuf_h_sahin.png
+
   - name: Gulcin Baykal Can
     order: 1
     about: PhD Candidate
@@ -52,18 +60,9 @@ team:
     scholar: https://scholar.google.com/citations?user=I30oPoMAAAAJ
     research_areas: 
     image: assets/img/team/halil_faruk_karagoz.jpeg
-    
-notablealumni:
-
-  - name: Yusuf H. Sahin
-    order: 0
-    about: Assistant Professor at Computer Engineering Department in Istanbul Technical University.
-    mail: sahinyu@itu.edu.tr
-    scholar: https://scholar.google.com.tr/citations?user=62rdgoYAAAAJ
-    image: assets/img/team/yusuf_h_sahin.png
 
   - name: Firat Oncel
-    order: 1
+    order: 5
     about: MSc Graduate 2022.
     research_areas: 
     mail: 
@@ -71,7 +70,7 @@ notablealumni:
     image: assets/img/team/firat-oncel.jpg
 
   - name: Abdullah Akgul
-    order: 2
+    order: 6
     about: MSc Graduate 2022.
     research_areas: 
     mail: 
@@ -79,7 +78,7 @@ notablealumni:
     image: assets/img/team/abdullah_akgul.jpg
 
   - name: Busra Asan
-    order: 3
+    order: 7
     about: BSc Graduate 2023.
     research_areas: 
     mail: 
@@ -87,7 +86,7 @@ notablealumni:
     image: assets/img/team/busra-asan.jpg
 
   - name: Elvin Abdinli
-    order: 4
+    order: 8
     about: BSc Graduate 2023.
     research_areas: 
     mail: 
@@ -95,23 +94,15 @@ notablealumni:
     image: assets/img/team/elvin-abdinli.jpg
   
   - name: Ismail Cetin
-    order: 4
+    order: 9
     about: BSc Graduate 2023.
     research_areas: 
     mail: 
     webpage: 
     image: 
 
-  - name: Kadir Burak Buldu
-    order: 5
-    about: BSc Graduate 2023.
-    research_areas: 
-    mail: 
-    webpage: 
-    image: assets/img/team/kadir-burak-buldu.jpeg
-  
   - name: Atahan Ozer
-    order: 6
+    order: 11
     about: BSc Graduate 2022.
     research_areas: 
     mail: 
@@ -119,7 +110,7 @@ notablealumni:
     image: 
 
   - name: Batuhan Faik Demirbay
-    order: 7
+    order: 12
     about: BSc Graduate 2021.
     research_areas: 
     mail: 
@@ -127,58 +118,107 @@ notablealumni:
     image: 
 
   - name: Ugur Ali Kaplan
-    order: 8
+    order: 13
     about: BSc Graduate 2021.
     research_areas: 
     mail: 
     webpage: 
     image: 
 
+  - name: Ali Kerem Bozkurt
+    order: 14
+    mail: bozkurt19@itu.edu.tr
+    research_areas:
+    image:
+    linkedin:
+
+  # - name: Efe Cirpan
+  #   order: 15
+  #   mail: cirpan19@itu.edu.tr
+  #   research_areas:
+  #   webpage:
+  #   linkedin:
+  #   image:
+
+  - name: Emircan Gundogdu
+    order: 16
+    mail: gundogdu19@itu.edu.tr
+    research_areas:
+    image: assets/img/team/emircan-gundogdu.jpg
+
+  - name: Mert Gulsen
+    order: 17
+    mail: gulsen20@itu.edu.tr
+    research_areas:
+    image: assets/img/team/mert-gulsen.jpg
+
+  - name: Mustafa Arda Aydin
+    order: 18
+    mail: aydinmu19@itu.edu.tr
+    research_areas:
+    webpage:
+    linkedin:
+    image:
+
+  - name: Başar Demir
+    order: 19
+    about:
+    research_areas:
+    mail:
+    webpage:
+    linkedin: https://www.linkedin.com/in/basardemir/
+    image:
+
+graduate_researchers:
+  - name: Esra Ergün
+    order: 0
+    about:
+    research_areas: 
+    mail: ergunesr@itu.edu.tr
+    scholar:
+    webpage:
+    linkedin: https://www.linkedin.com/in/esra-erg%C3%BCn-8a881ba4/
+    image: 
+
+collaborating_researchers:
   - name: Vahit Bugra Yesilkaynak
-    order: 9
+    order: 0
     about: BSc Graduate 2020.
     research_areas: 
     mail: 
     webpage: 
     image: 
 
+  - name: Kadir Burak Buldu
+    order: 1
+    about: BSc Graduate 2023.
+    research_areas: 
+    mail: 
+    webpage: 
+    image: assets/img/team/kadir-burak-buldu.jpeg
+
+
 bachelor:
 
-  - name: Emircan Gundogdu
-    order: 3
-    mail: gundogdu19@itu.edu.tr
-    research_areas: 
-    image: assets/img/team/emircan-gundogdu.jpg
+- name: Muhammed Faruk Aytin
+  order: 0
+  about:
+  research_areas: 
+  mail: aytinm21@itu.edu.tr
+  scholar:
+  webpage:
+  linkedin: https://www.linkedin.com/in/mfaytin/
+  image: 
 
-  - name: Ali Kerem Bozkurt
-    order: 1
-    mail: bozkurt19@itu.edu.tr
-    research_areas: 
-    image: 
-    linkedin:
-
-  - name: Mert Gulsen
-    order: 4
-    mail: gulsen20@itu.edu.tr
-    research_areas: 
-    image: assets/img/team/mert-gulsen.jpg
-    
-  - name: Mustafa Arda Aydin
-    order: 5
-    mail: aydinmu19@itu.edu.tr
-    research_areas: 
-    webpage: 
-    linkedin: 
-    image: 
-
-  - name: Efe Cirpan
-    order: 2
-    mail: cirpan19@itu.edu.tr
-    research_areas: 
-    webpage: 
-    linkedin: 
-    image: 
-
+- name: M. Emin Acar
+  order: 1
+  about:
+  research_areas: mhe
+  mail: acamre22@itu.edu.tr
+  scholar:
+  webpage:
+  linkedin: https://www.linkedin.com/in/emin-acar-3673321a1/
+  image: assets/img/team/emin-acar.png
 
 alumnis:
   - name: Talha Sezer Cakir
