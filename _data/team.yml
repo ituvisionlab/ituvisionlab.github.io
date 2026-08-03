@@ -31,7 +31,7 @@ notablealumni:
     image: assets/img/team/gulcin_baykal_can.jpeg
 
   - name: Altay Unal
-    order: 2
+    order: 4
     about: MSc Student
     mail: unal21@itu.edu.tr
     linkedin: 
@@ -41,7 +41,7 @@ notablealumni:
     image: assets/img/team/altay-unal.jpg
     
   - name: Batuhan Cengiz
-    order: 3
+    order: 5
     about: MSc Student
     mail: cengiz16@itu.edu.tr
     orcid: 
@@ -51,8 +51,8 @@ notablealumni:
     image: assets/img/team/batuhan-cengiz.jpeg
 
   - name: Halil Faruk Karagoz
-    order: 4
-    about: MSc Student
+    order: 6
+    about: BSc Graduate 2023.
     linkedin: 
     orcid: 
     webpage: 
@@ -62,7 +62,7 @@ notablealumni:
     image: assets/img/team/halil_faruk_karagoz.jpeg
 
   - name: Firat Oncel
-    order: 5
+    order: 3
     about: MSc Graduate 2022.
     research_areas: 
     mail: 
@@ -70,7 +70,7 @@ notablealumni:
     image: assets/img/team/firat-oncel.jpg
 
   - name: Abdullah Akgul
-    order: 6
+    order: 2
     about: MSc Graduate 2022.
     research_areas: 
     mail: 
@@ -102,7 +102,7 @@ notablealumni:
     image: 
 
   - name: Atahan Ozer
-    order: 11
+    order: 10
     about: BSc Graduate 2022.
     research_areas: 
     mail: 
@@ -110,7 +110,7 @@ notablealumni:
     image: 
 
   - name: Batuhan Faik Demirbay
-    order: 12
+    order: 11
     about: BSc Graduate 2021.
     research_areas: 
     mail: 
@@ -118,7 +118,7 @@ notablealumni:
     image: 
 
   - name: Ugur Ali Kaplan
-    order: 13
+    order: 12
     about: BSc Graduate 2021.
     research_areas: 
     mail: 
@@ -126,7 +126,7 @@ notablealumni:
     image: 
 
   - name: Ali Kerem Bozkurt
-    order: 14
+    order: 13
     mail: bozkurt19@itu.edu.tr
     research_areas:
     image:
@@ -141,19 +141,19 @@ notablealumni:
   #   image:
 
   - name: Emircan Gundogdu
-    order: 16
+    order: 14
     mail: gundogdu19@itu.edu.tr
     research_areas:
     image: assets/img/team/emircan-gundogdu.jpg
 
   - name: Mert Gulsen
-    order: 17
+    order: 15
     mail: gulsen20@itu.edu.tr
     research_areas:
     image: assets/img/team/mert-gulsen.jpg
 
   - name: Mustafa Arda Aydin
-    order: 18
+    order: 16
     mail: aydinmu19@itu.edu.tr
     research_areas:
     webpage:
@@ -161,7 +161,7 @@ notablealumni:
     image:
 
   - name: Başar Demir
-    order: 19
+    order: 17
     about:
     research_areas:
     mail:
