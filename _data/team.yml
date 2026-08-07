@@ -70,7 +70,7 @@ notablealumni:
     image: assets/img/team/batuhan-cengiz.jpeg
 
   - name: Halil Faruk Karagöz
-    order: 8
+    order: 9
     about: MSc Student at the University of Tübingen.
     mail: karagoz18@itu.edu.tr
     scholar: https://scholar.google.com/citations?user=I30oPoMAAAAJ
@@ -78,14 +78,14 @@ notablealumni:
     image: assets/img/team/halil_faruk_karagoz.jpeg
 
   - name: Büşra Asan
-    order: 13
+    order: 8
     about: MSc Student at the University of Tübingen.
     scholar: https://scholar.google.com/citations?user=6PwfaIMAAAAJ
     linkedin: https://www.linkedin.com/in/busraasan/
     image: assets/img/team/busra-asan.jpg
 
   - name: Elvin Abdinli
-    order: 9
+    order: 10
     about: MSc Student at the Technical University of Munich.
     scholar: https://scholar.google.com/citations?user=E1ydMsUAAAAJ
     linkedin: https://www.linkedin.com/in/elvinabdinli/
@@ -98,18 +98,18 @@ notablealumni:
     image: assets/img/team/ismail-çetin.png
 
   - name: Atahan Özer
-    order: 10
+    order: 11
     about: PhD Student at Fraunhofer HHI.
     scholar: https://scholar.google.com/citations?user=aa8JahoAAAAJ
     linkedin: https://www.linkedin.com/in/atahan-%C3%B6zer/
     image: assets/img/team/atahan-ozer.jpg
 
   - name: Batuhan Faik Demirbay
-    order: 12
+    order: 13
     about: BSc Graduate 2021 from Istanbul Technical University.
 
   - name: Uğur Ali Kaplan
-    order: 11
+    order: 12
     about: MSc Graduate 2024 from the University of Tübingen.
     webpage: https://uguralikaplan.com/
     scholar: https://scholar.google.com/citations?user=xBKuzPQAAAAJ
