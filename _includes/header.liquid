@@ -17,7 +17,10 @@
               {{- site.last_name -}}
             {% endif %}
           {% else %}
-            {{- site.title -}}
+            <span class="site-name">{{- site.title -}}</span>
+          {% endif %}
+          {% if site.navbar_subtitle %}
+            <span class="site-subtitle">{{- site.navbar_subtitle -}}</span>
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}

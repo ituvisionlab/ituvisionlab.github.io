@@ -9,7 +9,6 @@ leaders:
     image: assets/img/team/gozde_unal.jpeg
 
 notablealumni:
-
   - name: Uğur Demir
     order: 0
     about: PhD Candidate at Northwestern University.
@@ -28,8 +27,6 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/yusuf-h-%C5%9Fahin-b1750b2a5/
     image: assets/img/team/yusuf_h_sahin.png
 
-
-
   - name: Gülçin Baykal Can
     order: 2
     about: PhD Graduate 2024; Postdoctoral Researcher at the University of Southern Denmark.
@@ -41,7 +38,7 @@ notablealumni:
 
   - name: Abdullah Akgül
     order: 3
-    about: PhD Candidate at the University of Southern Denmark.
+    about: PhD Graduate 2026 from the University of Southern Denmark.
     webpage: https://aportekila.github.io/
     scholar: https://scholar.google.com/citations?user=FZeaKPoAAAAJ
     linkedin: https://www.linkedin.com/in/abdullahakgul70/
@@ -65,7 +62,7 @@ notablealumni:
 
   - name: Batuhan Cengiz
     order: 6
-    about: MSc Graduate 2025.
+    about: MSc Graduate 2025 from Istanbul Technical University.
     mail: cengiz16@itu.edu.tr
     webpage: https://batuceng.github.io/
     scholar: https://scholar.google.com/citations?user=EKe8A5gAAAAJ
@@ -98,6 +95,7 @@ notablealumni:
     order: 18
     about: Graduate Student at Koç University.
     linkedin: https://www.linkedin.com/in/ismail-cetin-a2075016b/
+    image: assets/img/team/ismail-çetin.png
 
   - name: Atahan Özer
     order: 10
@@ -108,11 +106,11 @@ notablealumni:
 
   - name: Batuhan Faik Demirbay
     order: 12
-    about: BSc Graduate 2021.
+    about: BSc Graduate 2021 from Istanbul Technical University.
 
   - name: Uğur Ali Kaplan
     order: 11
-    about: MSc Graduate 2024.
+    about: MSc Graduate 2024 from the University of Tübingen.
     webpage: https://uguralikaplan.com/
     scholar: https://scholar.google.com/citations?user=xBKuzPQAAAAJ
     linkedin: https://www.linkedin.com/in/uguralikaplan/
@@ -123,6 +121,7 @@ notablealumni:
     about: MSc Student at Koç University.
     mail: bozkurt19@itu.edu.tr
     linkedin: https://www.linkedin.com/in/alikerembozkurt/
+    image: assets/img/team/ali-kerem-bozkurt.png
 
   - name: Emircan Gündoğdu
     order: 15
@@ -146,6 +145,7 @@ notablealumni:
     about: MSc Candidate at Bilkent University.
     mail: aydinmu19@itu.edu.tr
     webpage: https://icon.ee.bilkent.edu.tr/people.html
+    image: assets/img/team/mustafa-arda-aydın.png
 
   - name: Başar Demir
     order: 7
@@ -155,29 +155,28 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/basardemir/
     image: assets/img/team/basar-demir.jpg
 
-
 graduate_researchers:
   - name: Esra Ergün
     order: 0
-    about: 
+    about:
     #PhD Candidate and Research Assistant at Istanbul Technical University.
     mail: ergunesr@itu.edu.tr
     scholar: https://scholar.google.com/citations?user=cgMZnfEAAAAJ
     webpage: https://research.itu.edu.tr/tr/persons/ergunesr/
     linkedin: https://www.linkedin.com/in/esra-erg%C3%BCn-8a881ba4/
-    image: 
+    image:
 
 collaborating_researchers:
   - name: Vahit Buğra Yeşilkaynak
     order: 0
-    about: MSc Graduate 2024.
+    about: MSc Graduate 2024 from the Technical University of Munich.
     scholar: https://scholar.google.com/citations?user=O-hcKjIAAAAJ
     linkedin: https://www.linkedin.com/in/vahitoglu/
     image: assets/img/team/vahit-bugra-yesilkaynak.jpg
 
   - name: Kadir Burak Buldu
     order: 1
-    about: MSc Graduate 2026.
+    about: MSc Graduate 2026 from the Technical University of Munich.
     scholar: https://scholar.google.com/citations?user=KNsoaSUAAAAJ
     linkedin: https://www.linkedin.com/in/buldubu/
     image: assets/img/team/kadir-burak-buldu.jpeg
@@ -189,6 +188,7 @@ bachelor:
     mail: aytinm21@itu.edu.tr
     webpage: https://huggingface.co/mfaytin
     linkedin: https://www.linkedin.com/in/mfaytin/
+    image: assets/img/team/muhammet-furkan-aytin.png
 
   - name: M. Emin Acar
     order: 1
