@@ -2,10 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ITU Vision Lab # the website title (if blank, full name will be used instead)
-first_name: 
-middle_name: 
-last_name: ITU Vision Lab
+title: ITU Vision & AI Lab # the website title (if blank, full name will be used instead)
+navbar_subtitle: Research group affiliated with the ITU Multimedia Processing Lab
+first_name:
+middle_name:
+last_name: ITU Vision & AI Lab
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -19,7 +20,7 @@ icon: symbol.jpg
 # icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ituvisionlab.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 

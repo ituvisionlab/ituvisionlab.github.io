@@ -1,225 +1,202 @@
 leaders:
-  - name: Gozde Unal
+  - name: Gözde Ünal
     order: 1
-    about: Professor at Artificial Intelligence and Data Engineering Department in Istanbul Technical University.
+    about: Professor at the Artificial Intelligence and Data Engineering Department, Istanbul Technical University.
     mail: gozde.unal@itu.edu.tr
-    orcid: 
     webpage: https://gozde-unal.github.io/
     scholar: https://scholar.google.com/citations?user=soanB6MAAAAJ
-    twitter: 
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/gozde-unal-080a571/
     image: assets/img/team/gozde_unal.jpeg
 
 notablealumni:
-
-  - name: Yusuf H. Sahin
+  - name: Uğur Demir
     order: 0
-    about: Assistant Professor at Computer Engineering Department in Istanbul Technical University.
+    about: PhD Candidate at Northwestern University.
+    webpage: https://sites.northwestern.edu/ivpl/people/current-members/
+    scholar: https://scholar.google.com/citations?user=Lzxk0PMAAAAJ
+    linkedin: https://www.linkedin.com/in/demiru/
+    image: assets/img/team/ugur-demir.png
+
+  - name: Yusuf H. Şahin
+    order: 1
+    about: PhD Graduate 2023; Assistant Professor at Istanbul Technical University.
     mail: sahinyu@itu.edu.tr
-    scholar: https://scholar.google.com.tr/citations?user=62rdgoYAAAAJ
+    webpage: https://research.itu.edu.tr/tr/persons/sahinyu/
+    scholar: https://scholar.google.com/citations?user=62rdgoYAAAAJ
+    orcid: 0000-0002-4134-9423
+    linkedin: https://www.linkedin.com/in/yusuf-h-%C5%9Fahin-b1750b2a5/
     image: assets/img/team/yusuf_h_sahin.png
 
-  - name: Gulcin Baykal Can
-    order: 1
-    about: PhD Candidate
+  - name: Gülçin Baykal Can
+    order: 2
+    about: PhD Graduate 2024; Postdoctoral Researcher at the University of Southern Denmark.
     mail: baykalg@itu.edu.tr
-    orcid: 
-    webpage: 
+    webpage: https://gulcinbaykal.github.io/
     scholar: https://scholar.google.com/citations?user=tcmSfdwAAAAJ
-    linkedin: 
-    research_areas: 
+    linkedin: https://www.linkedin.com/in/g%C3%BCl%C3%A7in-baykal-can-0a8276b0/
     image: assets/img/team/gulcin_baykal_can.jpeg
 
-  - name: Altay Unal
-    order: 4
-    about: MSc Student
-    mail: unal21@itu.edu.tr
-    linkedin: 
-    scholar: https://scholar.google.com/citations?user=t5tsxTIAAAAJ
-    webpage: 
-    research_areas: 
-    image: assets/img/team/altay-unal.jpg
-    
-  - name: Batuhan Cengiz
-    order: 5
-    about: MSc Student
-    mail: cengiz16@itu.edu.tr
-    orcid: 
-    linkedin:
-    scholar: https://scholar.google.com.tr/citations?user=EKe8A5gAAAAJ
-    research_areas: 
-    image: assets/img/team/batuhan-cengiz.jpeg
-
-  - name: Halil Faruk Karagoz
-    order: 6
-    about: BSc Graduate 2023.
-    linkedin: 
-    orcid: 
-    webpage: 
-    mail: karagoz18@itu.edu.tr
-    scholar: https://scholar.google.com/citations?user=I30oPoMAAAAJ
-    research_areas: 
-    image: assets/img/team/halil_faruk_karagoz.jpeg
-
-  - name: Firat Oncel
+  - name: Abdullah Akgül
     order: 3
-    about: MSc Graduate 2022.
-    research_areas: 
-    mail: 
-    linkedin:
-    image: assets/img/team/firat-oncel.jpg
-
-  - name: Abdullah Akgul
-    order: 2
-    about: MSc Graduate 2022.
-    research_areas: 
-    mail: 
-    webpage: https://aportekila.github.io
+    about: PhD Graduate 2026 from the University of Southern Denmark.
+    webpage: https://aportekila.github.io/
+    scholar: https://scholar.google.com/citations?user=FZeaKPoAAAAJ
+    linkedin: https://www.linkedin.com/in/abdullahakgul70/
     image: assets/img/team/abdullah_akgul.jpg
 
-  - name: Busra Asan
-    order: 7
-    about: BSc Graduate 2023.
-    research_areas: 
-    mail: 
-    webpage: 
+  - name: Fırat Öncel
+    order: 4
+    about: PhD Candidate at Concordia University and Mila.
+    webpage: https://firatoncel.github.io/
+    scholar: https://scholar.google.com/citations?user=E8VJ89sAAAAJ
+    linkedin: https://www.linkedin.com/in/f%C4%B1rat-%C3%B6-41baa6a1/
+    image: assets/img/team/firat-oncel.jpg
+
+  - name: Altay Ünal
+    order: 5
+    about: PhD Student in Data Science at the New Jersey Institute of Technology.
+    mail: unal21@itu.edu.tr
+    scholar: https://scholar.google.com/citations?user=t5tsxTIAAAAJ
+    linkedin: https://www.linkedin.com/in/altay-unal-59bb80159/
+    image: assets/img/team/altay-unal.jpg
+
+  - name: Batuhan Cengiz
+    order: 6
+    about: MSc Graduate 2025 from Istanbul Technical University.
+    mail: cengiz16@itu.edu.tr
+    webpage: https://batuceng.github.io/
+    scholar: https://scholar.google.com/citations?user=EKe8A5gAAAAJ
+    linkedin: https://www.linkedin.com/in/batuhan-cengiz/
+    image: assets/img/team/batuhan-cengiz.jpeg
+
+  - name: Halil Faruk Karagöz
+    order: 9
+    about: MSc Student at the University of Tübingen.
+    mail: karagoz18@itu.edu.tr
+    scholar: https://scholar.google.com/citations?user=I30oPoMAAAAJ
+    linkedin: https://www.linkedin.com/in/halil-faruk-karagoz/
+    image: assets/img/team/halil_faruk_karagoz.jpeg
+
+  - name: Büşra Asan
+    order: 8
+    about: MSc Student at the University of Tübingen.
+    scholar: https://scholar.google.com/citations?user=6PwfaIMAAAAJ
+    linkedin: https://www.linkedin.com/in/busraasan/
     image: assets/img/team/busra-asan.jpg
 
   - name: Elvin Abdinli
-    order: 8
-    about: BSc Graduate 2023.
-    research_areas: 
-    mail: 
-    webpage: 
-    image: assets/img/team/elvin-abdinli.jpg
-  
-  - name: Ismail Cetin
-    order: 9
-    about: BSc Graduate 2023.
-    research_areas: 
-    mail: 
-    webpage: 
-    image: 
-
-  - name: Atahan Ozer
     order: 10
-    about: BSc Graduate 2022.
-    research_areas: 
-    mail: 
-    webpage: 
-    image: 
+    about: MSc Student at the Technical University of Munich.
+    scholar: https://scholar.google.com/citations?user=E1ydMsUAAAAJ
+    linkedin: https://www.linkedin.com/in/elvinabdinli/
+    image: assets/img/team/elvin-abdinli.jpg
+
+  - name: İsmail Çetin
+    order: 18
+    about: Graduate Student at Koç University.
+    linkedin: https://www.linkedin.com/in/ismail-cetin-a2075016b/
+    image: assets/img/team/ismail-çetin.png
+
+  - name: Atahan Özer
+    order: 11
+    about: PhD Student at Fraunhofer HHI.
+    scholar: https://scholar.google.com/citations?user=aa8JahoAAAAJ
+    linkedin: https://www.linkedin.com/in/atahan-%C3%B6zer/
+    image: assets/img/team/atahan-ozer.jpg
 
   - name: Batuhan Faik Demirbay
-    order: 11
-    about: BSc Graduate 2021.
-    research_areas: 
-    mail: 
-    webpage: 
-    image: 
+    order: 13
+    about: BSc Graduate 2021 from Istanbul Technical University.
 
-  - name: Ugur Ali Kaplan
+  - name: Uğur Ali Kaplan
     order: 12
-    about: BSc Graduate 2021.
-    research_areas: 
-    mail: 
-    webpage: 
-    image: 
+    about: MSc Graduate 2024 from the University of Tübingen.
+    webpage: https://uguralikaplan.com/
+    scholar: https://scholar.google.com/citations?user=xBKuzPQAAAAJ
+    linkedin: https://www.linkedin.com/in/uguralikaplan/
+    image: assets/img/team/ugur-ali-kaplan.jpg
 
   - name: Ali Kerem Bozkurt
-    order: 13
+    order: 16
+    about: MSc Student at Koç University.
     mail: bozkurt19@itu.edu.tr
-    research_areas:
-    image:
-    linkedin:
+    linkedin: https://www.linkedin.com/in/alikerembozkurt/
+    image: assets/img/team/ali-kerem-bozkurt.png
 
-  # - name: Efe Cirpan
-  #   order: 15
-  #   mail: cirpan19@itu.edu.tr
-  #   research_areas:
-  #   webpage:
-  #   linkedin:
-  #   image:
-
-  - name: Emircan Gundogdu
-    order: 14
+  - name: Emircan Gündoğdu
+    order: 15
+    about: MSc Student at ETH Zürich.
     mail: gundogdu19@itu.edu.tr
-    research_areas:
+    webpage: https://emircangun.github.io/
+    scholar: https://scholar.google.com/citations?user=6F2gzvgAAAAJ
     image: assets/img/team/emircan-gundogdu.jpg
 
-  - name: Mert Gulsen
-    order: 15
+  - name: Mert Gülşen
+    order: 14
+    about: MSc Student at Istanbul Technical University.
     mail: gulsen20@itu.edu.tr
-    research_areas:
+    webpage: https://www.mertgulsen.com/
+    scholar: https://scholar.google.com/citations?user=jVQUxfMAAAAJ
+    linkedin: https://www.linkedin.com/in/mert-gulsen/
     image: assets/img/team/mert-gulsen.jpg
 
-  - name: Mustafa Arda Aydin
-    order: 16
+  - name: Mustafa Arda Aydın
+    order: 17
+    about: MSc Candidate at Bilkent University.
     mail: aydinmu19@itu.edu.tr
-    research_areas:
-    webpage:
-    linkedin:
-    image:
+    webpage: https://icon.ee.bilkent.edu.tr/people.html
+    image: assets/img/team/mustafa-arda-aydın.png
 
   - name: Başar Demir
-    order: 17
-    about:
-    research_areas:
-    mail:
-    webpage:
+    order: 7
+    about: PhD Student at the University of California San Diego.
+    webpage: https://cseweb.ucsd.edu/~mniethammer/author/basar-demir/
+    scholar: https://scholar.google.com/citations?user=Rr6nOIEAAAAJ
     linkedin: https://www.linkedin.com/in/basardemir/
-    image:
+    image: assets/img/team/basar-demir.jpg
 
 graduate_researchers:
   - name: Esra Ergün
     order: 0
     about:
-    research_areas: 
+    #PhD Candidate and Research Assistant at Istanbul Technical University.
     mail: ergunesr@itu.edu.tr
-    scholar:
-    webpage:
+    scholar: https://scholar.google.com/citations?user=cgMZnfEAAAAJ
+    webpage: https://research.itu.edu.tr/tr/persons/ergunesr/
     linkedin: https://www.linkedin.com/in/esra-erg%C3%BCn-8a881ba4/
-    image: 
+    image:
 
 collaborating_researchers:
-  - name: Vahit Bugra Yesilkaynak
+  - name: Vahit Buğra Yeşilkaynak
     order: 0
-    about: BSc Graduate 2020.
-    research_areas: 
-    mail: 
-    webpage: 
-    image: 
+    about: MSc Graduate 2024 from the Technical University of Munich.
+    scholar: https://scholar.google.com/citations?user=O-hcKjIAAAAJ
+    linkedin: https://www.linkedin.com/in/vahitoglu/
+    image: assets/img/team/vahit-bugra-yesilkaynak.jpg
 
   - name: Kadir Burak Buldu
     order: 1
-    about: BSc Graduate 2023.
-    research_areas: 
-    mail: 
-    webpage: 
+    about: MSc Graduate 2026 from the Technical University of Munich.
+    scholar: https://scholar.google.com/citations?user=KNsoaSUAAAAJ
+    linkedin: https://www.linkedin.com/in/buldubu/
     image: assets/img/team/kadir-burak-buldu.jpeg
 
-
 bachelor:
+  - name: Muhammed Faruk Aytin
+    order: 0
+    about: BSc Student at Istanbul Technical University.
+    mail: aytinm21@itu.edu.tr
+    webpage: https://huggingface.co/mfaytin
+    linkedin: https://www.linkedin.com/in/mfaytin/
+    image: assets/img/team/muhammet-furkan-aytin.png
 
-- name: Muhammed Faruk Aytin
-  order: 0
-  about:
-  research_areas: 
-  mail: aytinm21@itu.edu.tr
-  scholar:
-  webpage:
-  linkedin: https://www.linkedin.com/in/mfaytin/
-  image: 
-
-- name: M. Emin Acar
-  order: 1
-  about:
-  research_areas: mhe
-  mail: acamre22@itu.edu.tr
-  scholar:
-  webpage:
-  linkedin: https://www.linkedin.com/in/emin-acar-3673321a1/
-  image: assets/img/team/emin-acar.png
+  - name: M. Emin Acar
+    order: 1
+    about: BSc Student at Istanbul Technical University.
+    mail: acamre22@itu.edu.tr
+    linkedin: https://www.linkedin.com/in/emin-acar-3673321a1/
+    image: assets/img/team/emin-acar.jpeg
 
 alumnis:
-  - name: Talha Sezer Cakir
-  - name: Zeki Gencer
+  - name: Talha Sezer Çakır
+  - name: Zeki Gençer

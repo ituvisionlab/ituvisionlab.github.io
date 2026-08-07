@@ -285,6 +285,20 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+
+    .site-name,
+    .site-subtitle {
+      display: block;
+    }
+
+    .site-subtitle {
+      color: var(--global-text-color);
+      font-size: 0.7rem;
+      font-weight: normal;
+      line-height: 1.2;
+      opacity: 0.62;
+      white-space: nowrap;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
