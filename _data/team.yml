@@ -261,7 +261,8 @@ bachelor:
   - name: Muhammed Faruk Aytin
     order: 0
     details:
-      - BSc Student at ITU
+      - BSc Student in Computer Engineering at ITU (Double Major)
+      - BSc in Artificial Intelligence and Data Engineering from ITU, 2026
     mail: aytinm21@itu.edu.tr
     webpage: https://huggingface.co/mfaytin
     linkedin: https://www.linkedin.com/in/mfaytin/
@@ -270,7 +271,7 @@ bachelor:
   - name: M. Emin Acar
     order: 1
     details:
-      - BSc Student at ITU
+      - BSc Student in Artificial Intelligence and Data Engineering at ITU
     mail: acamre22@itu.edu.tr
     linkedin: https://www.linkedin.com/in/emin-acar-3673321a1/
     image: assets/img/team/emin-acar.jpeg
