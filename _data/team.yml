@@ -261,7 +261,7 @@ bachelor:
   - name: Muhammed Faruk Aytin
     order: 0
     details:
-      - BSc Student in Computer Engineering at ITU (Double Major)
+      - BSc Student in Computer Engineering at ITU
       - BSc in Artificial Intelligence and Data Engineering from ITU, 2026
     mail: aytinm21@itu.edu.tr
     webpage: https://huggingface.co/mfaytin
