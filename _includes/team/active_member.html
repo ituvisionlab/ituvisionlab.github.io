@@ -14,11 +14,11 @@
       {% else %}
       <h5 class="card-title">{{ include.member.name }}</h5>
       {% endif %} {% if include.member.details %}
-      <ul class="card-text pl-3">
+      <div class="card-text">
         {% for detail in include.member.details %}
-        <li>{{ detail }}</li>
+        <div>{{ detail }}</div>
         {% endfor %}
-      </ul>
+      </div>
       {% else %}
       <p class="card-text">{{ include.member.about }}</p>
       {% endif %}
