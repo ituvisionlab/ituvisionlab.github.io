@@ -19,6 +19,7 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/demiru/
     image: assets/img/team/ugur-demir.png
 
+
   - name: Yusuf H. Şahin
     order: 1
     details:
@@ -33,6 +34,7 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/yusuf-h-%C5%9Fahin-b1750b2a5/
     image: assets/img/team/yusuf_h_sahin.png
 
+
   - name: Gülçin Baykal Can
     order: 2
     details:
@@ -46,6 +48,7 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/g%C3%BCl%C3%A7in-baykal-can-0a8276b0/
     image: assets/img/team/gulcin_baykal_can.jpeg
 
+
   - name: Abdullah Akgül
     order: 3
     details:
@@ -58,6 +61,7 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/abdullahakgul70/
     image: assets/img/team/abdullah_akgul.jpg
 
+
   - name: Fırat Öncel
     order: 4
     details:
@@ -69,6 +73,7 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/f%C4%B1rat-%C3%B6-41baa6a1/
     image: assets/img/team/firat-oncel.jpg
 
+
   - name: Altay Ünal
     order: 5
     details:
@@ -78,6 +83,7 @@ notablealumni:
     scholar: https://scholar.google.com/citations?user=t5tsxTIAAAAJ
     linkedin: https://www.linkedin.com/in/altay-unal-59bb80159/
     image: assets/img/team/altay-unal.jpg
+
 
   - name: Batuhan Cengiz
     order: 6
@@ -91,130 +97,6 @@ notablealumni:
     linkedin: https://www.linkedin.com/in/batuhan-cengiz/
     image: assets/img/team/batuhan-cengiz.jpeg
 
-  - name: Halil Faruk Karagöz
-    order: 9
-    details:
-      - Research Engineer at Maddox AI
-      - MSc Student at the University of Tübingen
-      - BSc in Computer Engineering from ITU, 2023
-    mail: karagoz18@itu.edu.tr
-    scholar: https://scholar.google.com/citations?user=I30oPoMAAAAJ
-    linkedin: https://www.linkedin.com/in/halil-faruk-karagoz/
-    image: assets/img/team/halil_faruk_karagoz.jpeg
-
-  - name: Büşra Asan
-    order: 8
-    details:
-      - Researcher at the Max Planck Institute for Software Systems
-      - MSc Student in Machine Learning at the University of Tübingen
-      - BSc in Computer Engineering from ITU, 2023
-    scholar: https://scholar.google.com/citations?user=6PwfaIMAAAAJ
-    linkedin: https://www.linkedin.com/in/busraasan/
-    image: assets/img/team/busra-asan.jpg
-
-  - name: Elvin Abdinli
-    order: 10
-    details:
-      - MSc Student at the Technical University of Munich
-      - BSc in Computer Engineering from ITU, 2023
-    scholar: https://scholar.google.com/citations?user=E1ydMsUAAAAJ
-    linkedin: https://www.linkedin.com/in/elvinabdinli/
-    image: assets/img/team/elvin-abdinli.jpg
-
-  - name: İsmail Çetin
-    order: 19
-    details:
-      - PhD Candidate at Koç University
-      - BSc in Computer Engineering from ITU, 2023
-    linkedin: https://www.linkedin.com/in/ismail-cetin-a2075016b/
-    image: assets/img/team/ismail-çetin.png
-
-  - name: Atahan Özer
-    order: 11
-    details:
-      - PhD Student and AI Researcher at Fraunhofer HHI
-      - MSc from the University of Tübingen, 2024
-      - BSc in Computer Engineering from ITU, 2022
-    scholar: https://scholar.google.com/citations?user=aa8JahoAAAAJ
-    linkedin: https://www.linkedin.com/in/atahan-%C3%B6zer/
-    image: assets/img/team/atahan-ozer.jpg
-
-  - name: Alican Mertan
-    order: 12
-    details:
-      - PhD in Computer Science from the University of Vermont, 2026
-      - MSc in Computer Engineering from ITU, 2020
-      - BSc in Computer Engineering from ITU, 2018
-    mail: alican.mertan@pm.me
-    webpage: https://mertan-a.xyz/
-    scholar: https://scholar.google.com/citations?user=UDZxnUwAAAAJ
-    linkedin: https://www.linkedin.com/in/alican-mertan/
-    image: assets/img/team/alican-mertan.jpg
-
-  - name: Batuhan Faik Demirbay
-    order: 20
-    details:
-      - BSc in Computer Engineering from ITU, 2021
-
-  - name: Uğur Ali Kaplan
-    order: 13
-    details:
-      - AI Research Engineer at Sonar
-      - MSc in Machine Learning from the University of Tübingen, 2024
-      - BSc in Computer Engineering from ITU, 2021
-    webpage: https://uguralikaplan.com/
-    scholar: https://scholar.google.com/citations?user=xBKuzPQAAAAJ
-    linkedin: https://www.linkedin.com/in/uguralikaplan/
-    image: assets/img/team/ugur-ali-kaplan.jpg
-
-  - name: Ali Kerem Bozkurt
-    order: 17
-    details:
-      - AI Researcher at Codevo
-      - MSc Student at Koç University
-      - BSc in Computer Engineering from ITU, 2024
-    mail: bozkurt19@itu.edu.tr
-    linkedin: https://www.linkedin.com/in/alikerembozkurt/
-    image: assets/img/team/ali-kerem-bozkurt.png
-
-  - name: Emircan Gündoğdu
-    order: 16
-    details:
-      - MSc Student at ETH Zürich
-      - BSc in Computer Engineering from ITU, 2024
-    mail: gundogdu19@itu.edu.tr
-    webpage: https://emircangun.github.io/
-    scholar: https://scholar.google.com/citations?user=6F2gzvgAAAAJ
-    image: assets/img/team/emircan-gundogdu.jpg
-
-  - name: Mert Gülşen
-    order: 14
-    details:
-      - Co-Founder at Dolfi
-      - MSc Student at ITU
-      - BSc in Artificial Intelligence and Data Engineering from ITU, 2025
-    mail: gulsen20@itu.edu.tr
-    webpage: https://www.mertgulsen.com/
-    scholar: https://scholar.google.com/citations?user=jVQUxfMAAAAJ
-    linkedin: https://www.linkedin.com/in/mert-gulsen/
-    image: assets/img/team/mert-gulsen.jpg
-
-  - name: Ömer Erdağ
-    order: 15
-    details:
-      - AI Engineer at Borsa İstanbul
-      - BSc in Artificial Intelligence and Data Engineering from ITU, 2026
-    linkedin: https://www.linkedin.com/in/omerdag/
-    image: assets/img/team/omer-erdag.jpg
-
-  - name: Mustafa Arda Aydın
-    order: 18
-    details:
-      - MSc Student at Bilkent University
-      - BSc in Electrical-Electronics Engineering from ITU, 2024
-    mail: aydinmu19@itu.edu.tr
-    webpage: https://icon.ee.bilkent.edu.tr/people.html
-    image: assets/img/team/mustafa-arda-aydın.png
 
   - name: Başar Demir
     order: 7
@@ -226,6 +108,177 @@ notablealumni:
     scholar: https://scholar.google.com/citations?user=Rr6nOIEAAAAJ
     linkedin: https://www.linkedin.com/in/basardemir/
     image: assets/img/team/basar-demir.jpg
+
+
+  - name: Büşra Asan
+    order: 8
+    details:
+      - Researcher at the Max Planck Institute for Software Systems
+      - MSc Student in Machine Learning at the University of Tübingen
+      - BSc in Computer Engineering from ITU, 2023
+    scholar: https://scholar.google.com/citations?user=6PwfaIMAAAAJ
+    linkedin: https://www.linkedin.com/in/busraasan/
+    image: assets/img/team/busra-asan.jpg
+
+
+  - name: Halil Faruk Karagöz
+    order: 9
+    details:
+      - Research Engineer at Maddox AI
+      - MSc Student at the University of Tübingen
+      - BSc in Computer Engineering from ITU, 2023
+    mail: karagoz18@itu.edu.tr
+    scholar: https://scholar.google.com/citations?user=I30oPoMAAAAJ
+    linkedin: https://www.linkedin.com/in/halil-faruk-karagoz/
+    image: assets/img/team/halil_faruk_karagoz.jpeg
+
+
+  - name: Elvin Abdinli
+    order: 10
+    details:
+      - MSc Student at the Technical University of Munich
+      - BSc in Computer Engineering from ITU, 2023
+    scholar: https://scholar.google.com/citations?user=E1ydMsUAAAAJ
+    linkedin: https://www.linkedin.com/in/elvinabdinli/
+    image: assets/img/team/elvin-abdinli.jpg
+
+
+  - name: Atahan Özer
+    order: 11
+    details:
+      - PhD Student and AI Researcher at Fraunhofer HHI
+      - MSc from the University of Tübingen, 2024
+      - BSc in Computer Engineering from ITU, 2022
+    scholar: https://scholar.google.com/citations?user=aa8JahoAAAAJ
+    linkedin: https://www.linkedin.com/in/atahan-%C3%B6zer/
+    image: assets/img/team/atahan-ozer.jpg
+
+
+  - name: Mehmet Aygün
+    order: 12
+    details:
+      - Research Scientist at GenBio AI
+      - PhD in Computer Science from the University of Edinburgh, 2025
+      - MSc in Computer Science from the Technical University of Munich, 2020
+      - BSc in Computer Science from ITU, 2017
+    mail: mayguntr@gmail.com
+    webpage: https://mehmetaygun.github.io/
+    scholar: https://scholar.google.com/citations?hl=en&user=uxs3cYcAAAAJ
+    linkedin: https://www.linkedin.com/in/mehmet-ayg%C3%BCn-9706b955/
+    image: assets/img/team/mehmet-aygun.jpg
+
+
+  - name: Alican Mertan
+    order: 13
+    details:
+      - PhD in Computer Science from the University of Vermont, 2026
+      - MSc in Computer Engineering from ITU, 2020
+      - BSc in Computer Engineering from ITU, 2018
+    mail: alican.mertan@pm.me
+    webpage: https://mertan-a.xyz/
+    scholar: https://scholar.google.com/citations?user=UDZxnUwAAAAJ
+    linkedin: https://www.linkedin.com/in/alican-mertan/
+    image: assets/img/team/alican-mertan.jpg
+
+
+  - name: Uğur Ali Kaplan
+    order: 14
+    details:
+      - AI Research Engineer at Sonar
+      - MSc in Machine Learning from the University of Tübingen, 2024
+      - BSc in Computer Engineering from ITU, 2021
+    webpage: https://uguralikaplan.com/
+    scholar: https://scholar.google.com/citations?user=xBKuzPQAAAAJ
+    linkedin: https://www.linkedin.com/in/uguralikaplan/
+    image: assets/img/team/ugur-ali-kaplan.jpg
+
+
+  - name: Ufuk Demir
+    order: 15
+    details:
+      - Data Science Consultant at Netlight Consulting
+      - MSc in Informatics from the Technical University of Munich, 2025
+      - BSc in Computer Engineering from ITU, 2021
+    mail: ufuk_demir_95@hotmail.com
+    scholar: https://scholar.google.com/citations?user=8duwQmoAAAAJ
+    linkedin: https://www.linkedin.com/in/ufukdemir/?locale=tr
+    image: assets/img/team/ufuk-demir.jpg
+
+
+  - name: Mert Gülşen
+    order: 16
+    details:
+      - Co-Founder at Dolfi
+      - MSc Student at ITU
+      - BSc in Artificial Intelligence and Data Engineering from ITU, 2025
+    mail: gulsen20@itu.edu.tr
+    webpage: https://www.mertgulsen.com/
+    scholar: https://scholar.google.com/citations?user=jVQUxfMAAAAJ
+    linkedin: https://www.linkedin.com/in/mert-gulsen/
+    image: assets/img/team/mert-gulsen.jpg
+
+
+  - name: Ömer Erdağ
+    order: 17
+    details:
+      - AI Engineer at Borsa İstanbul
+      - BSc in Artificial Intelligence and Data Engineering from ITU, 2026
+    mail: omer.erdag.ai@gmail.com
+    linkedin: https://www.linkedin.com/in/omerdag/
+    image: assets/img/team/omer-erdag.jpg
+
+
+  - name: Emircan Gündoğdu
+    order: 18
+    details:
+      - MSc Student at ETH Zürich
+      - BSc in Computer Engineering from ITU, 2024
+    mail: gundogdu19@itu.edu.tr
+    webpage: https://emircangun.github.io/
+    scholar: https://scholar.google.com/citations?user=6F2gzvgAAAAJ
+    image: assets/img/team/emircan-gundogdu.jpg
+
+
+  - name: Ali Kerem Bozkurt
+    order: 19
+    details:
+      - AI Researcher at Codevo
+      - MSc Student at Koç University
+      - BSc in Computer Engineering from ITU, 2024
+    mail: bozkurt19@itu.edu.tr
+    linkedin: https://www.linkedin.com/in/alikerembozkurt/
+    image: assets/img/team/ali-kerem-bozkurt.png
+
+
+  - name: Mustafa Arda Aydın
+    order: 20
+    details:
+      - MSc Student at Bilkent University
+      - BSc in Electrical-Electronics Engineering from ITU, 2024
+    mail: aydinmu19@itu.edu.tr
+    webpage: https://icon.ee.bilkent.edu.tr/people.html
+    image: assets/img/team/mustafa-arda-aydın.png
+
+
+  - name: İsmail Çetin
+    order: 21
+    details:
+      - PhD Candidate at Koç University
+      - BSc in Computer Engineering from ITU, 2023
+    linkedin: https://www.linkedin.com/in/ismail-cetin-a2075016b/
+    image: assets/img/team/ismail-çetin.png
+
+
+  - name: Batuhan Faik Demirbay
+    order: 22
+    details:
+      - BSc in Computer Engineering from ITU, 2021
+
+
+
+
+
+
 
 graduate_researchers:
   - name: Esra Ergün
@@ -264,7 +317,7 @@ bachelor:
       - BSc Student in Computer Engineering at ITU
       - BSc in Artificial Intelligence and Data Engineering from ITU, 2026
     mail: aytinm21@itu.edu.tr
-    webpage: https://huggingface.co/mfaytin
+    # webpage: https://huggingface.co/mfaytin
     linkedin: https://www.linkedin.com/in/mfaytin/
     image: assets/img/team/muhammet-furkan-aytin.png
 
