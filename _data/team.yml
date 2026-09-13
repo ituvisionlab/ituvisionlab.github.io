@@ -10,7 +10,7 @@ leaders:
 
 notablealumni:
   - name: Uğur Demir
-    order: 0
+    order: 13
     details:
       - PhD Candidate at Northwestern University
       - BSc in Computer Engineering from ITU, 2013
@@ -169,7 +169,7 @@ notablealumni:
 
 
   - name: Alican Mertan
-    order: 13
+    order: 14
     details:
       - PhD in Computer Science from the University of Vermont, 2026
       - MSc in Computer Engineering from ITU, 2020
@@ -182,7 +182,7 @@ notablealumni:
 
 
   - name: Uğur Ali Kaplan
-    order: 14
+    order: 15
     details:
       - AI Research Engineer at Sonar
       - MSc in Machine Learning from the University of Tübingen, 2024
@@ -194,7 +194,7 @@ notablealumni:
 
 
   - name: Ufuk Demir
-    order: 15
+    order: 16
     details:
       - Data Science Consultant at Netlight Consulting
       - MSc in Informatics from the Technical University of Munich, 2025
@@ -206,7 +206,7 @@ notablealumni:
 
 
   - name: Mert Gülşen
-    order: 16
+    order: 17
     details:
       - Co-Founder at Dolfi
       - MSc Student at ITU
@@ -219,7 +219,7 @@ notablealumni:
 
 
   - name: Ömer Erdağ
-    order: 17
+    order: 18
     details:
       - AI Engineer at Borsa İstanbul
       - BSc in Artificial Intelligence and Data Engineering from ITU, 2026
@@ -229,7 +229,7 @@ notablealumni:
 
 
   - name: Emircan Gündoğdu
-    order: 18
+    order: 19
     details:
       - MSc Student at ETH Zürich
       - BSc in Computer Engineering from ITU, 2024
@@ -240,7 +240,7 @@ notablealumni:
 
 
   - name: Ali Kerem Bozkurt
-    order: 19
+    order: 20
     details:
       - AI Researcher at Codevo
       - MSc Student at Koç University
@@ -251,7 +251,7 @@ notablealumni:
 
 
   - name: Mustafa Arda Aydın
-    order: 20
+    order: 21
     details:
       - MSc Student at Bilkent University
       - BSc in Electrical-Electronics Engineering from ITU, 2024
@@ -261,7 +261,7 @@ notablealumni:
 
 
   - name: İsmail Çetin
-    order: 21
+    order: 22
     details:
       - PhD Candidate at Koç University
       - BSc in Computer Engineering from ITU, 2023
@@ -270,7 +270,7 @@ notablealumni:
 
 
   - name: Batuhan Faik Demirbay
-    order: 22
+    order: 23
     details:
       - BSc in Computer Engineering from ITU, 2021
 
